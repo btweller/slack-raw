@@ -3,7 +3,6 @@
 body {
    font-family: 'Roboto', sans-serif !important;
     text-rendering: optimizeLegibility important;
-    word-spacing: -1px;
     -webkit-font-smoothing: auto;
 }
 .supports_custom_scrollbar #msg_input.texty_legacy .ql-editor{
@@ -26,7 +25,6 @@ span.c-message_attachment__media_trigger.c-message_attachment__media_trigger--ca
 div.p-message_pane__foreword__description span {
     color: white;
     font-size: 14px;
-    letter-spacing: 0.3px !important;
 }
 div.c-virtual_list__scroll_container {
     background-color: #222222 !important;
